@@ -12,9 +12,9 @@ Usei aprox. 15% do conjunto de dados (aprox. 1,6 milhão de registros) para a am
 
 No final, comparei os resultados com o de outros colegas do desafio;
 
-O faturamento teve um resultado surpreendentemente positivo, com precisão proporcional de 95,6% (1,4 bi do dataset total x 148 mi da amostra, variação de 4.4% dos 15% esperados);
-Todos os maiores valores das análises qualitativas foram correspondentes (100%) aos resultados das outras dashboards, mas valeria a pena aprofundar mais nos números e averiguar a diferença entre eles;
-O ticket médio não correspondeu ao valor apresentado pelos outros participantes do desafio, então vale averiguar a existência de um método mais confiável para esse caso.
+* O faturamento teve um resultado surpreendentemente positivo, com precisão proporcional de 95,6% (1,4 bi do dataset total x 148 mi da amostra, variação de 4,4% dos 15% esperados);
+* Todos os maiores valores das análises qualitativas foram correspondentes (100%) aos resultados das outras dashboards, mas valeria a pena aprofundar mais nos números e averiguar a diferença entre eles;
+* O ticket médio não correspondeu ao valor apresentado pelos outros participantes do desafio, então vale averiguar a existência de um método mais confiável para esse caso.
 
 ## Sobre o dashboard
 
