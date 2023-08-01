@@ -35,3 +35,6 @@ O dashboard foi construído em três partes:
 
 * Gráfico de mapa com filtro por estado, onde é possível ver os 5 maiores destinos de qualquer estado. Também é possível filtrar por mais de uma variável para ver os 5 maiores destinos das regiões filtradas;
 * Estatística com a principal linha dos filtros ativados.
+
+![image](https://github.com/matheusaraujotrd/ANTT-Amostra-Estratificada/assets/75196977/6cfb2b29-82d4-4c05-9aff-fd2180204bd9)
+
